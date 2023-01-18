@@ -1,0 +1,6 @@
+[submodule "repository-binaries-proj2"]
+	path = repository-binaries-proj2
+	url = https://mbidstrup@bitbucket.org/ktg-solidify/repository-binaries-proj2.git
+[submodule "contoso-air"]
+	path = contoso-air
+	url = https://mbidstrup@bitbucket.org/ktg-solidify/contoso-air.git
